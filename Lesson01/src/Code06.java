@@ -22,3 +22,4 @@ public class Code06 {
 }
 
 
+// test text :-)
